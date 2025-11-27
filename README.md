@@ -50,5 +50,3 @@ The analytical insight was translated directly into an action plan:
 | **Modeling/Metrics** | Scikit-learn (LogisticRegression) |
 | **Visualization** | Seaborn, Matplotlib |
 ---
-
-**Final Action:** Commit 
